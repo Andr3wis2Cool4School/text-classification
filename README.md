@@ -25,7 +25,7 @@ For simplify this Emotion Recognition problem, instead of predict the people dif
 
 All there datasets are labelled dataset.  
 
-![images](C:\Users\Andrew\Desktop\indivi\figs\1.png)
+![images](./figs/1.png)
 
 ### Embedding
 
